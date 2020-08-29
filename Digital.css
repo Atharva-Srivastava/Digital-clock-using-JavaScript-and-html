@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+}
+#clock{
+  color: cyan;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-size: 60px;
+  font-family: Orbitron;
+}
+#clock-border{
+  color: grey;
+  display: block;
+  height: 20 px;
+}
